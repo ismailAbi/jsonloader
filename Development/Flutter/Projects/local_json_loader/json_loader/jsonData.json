@@ -1,0 +1,26 @@
+[
+    {
+        "name":"ismail",
+        "age":"18",
+        "gender":"male",
+        "hair_color":"brown"
+    },
+    {
+        "name":"Luthfia",
+        "age":"18",
+        "gender":"female",
+        "hair_color":"black"
+    },
+    {
+        "name":"abi",
+        "age":"20",
+        "gender":"male",
+        "hair_color":"brown"
+    },
+    {
+        "name":"Abilash",
+        "age":"20",
+        "gender":"male",
+        "hair_color":"black"
+    }
+]
